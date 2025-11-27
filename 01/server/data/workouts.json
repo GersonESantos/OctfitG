@@ -1,5 +1,5 @@
 {
-  "nextId": 2,
+  "nextId": 3,
   "items": [
     {
       "id": 1,
@@ -7,6 +7,13 @@
       "notes": "dfgfdgf",
       "date": "2025-11-26",
       "duration": 22
+    },
+    {
+      "id": 2,
+      "title": "Gerson",
+      "notes": "corrida",
+      "date": "2025-11-27",
+      "duration": 11
     }
   ]
 }
